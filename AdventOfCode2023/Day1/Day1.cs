@@ -1,12 +1,12 @@
 namespace AdventOfCode2023;
 
 [TestClass]
-public class Day1
+public class Day1 : IDay
 {
 	[TestMethod]
 	public void Part1( )
 	{
-		IEnumerable< string > contents = ReadFile( "PuzzleInput" );
+		IEnumerable< string > contents = PuzzleInputReader.ReadInput( 1 );
 
 		int sum = 0;
 		foreach ( string content in contents )
@@ -44,7 +44,7 @@ public class Day1
 	[TestMethod]
 	public void Part2( )
 	{
-		IEnumerable< string > contents = ReadFile( "PuzzleInput" );
+		IEnumerable< string > contents = PuzzleInputReader.ReadInput( 1 );
 
 		int sum = Part2_Logic( contents );
 		Console.WriteLine( $"The sum is: {sum}" );
