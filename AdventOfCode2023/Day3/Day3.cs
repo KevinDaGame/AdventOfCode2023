@@ -34,7 +34,7 @@ public class Day3 : IDay
                     {
                         for (int l = j - number.Length - 1 < 0 ? 0 : j - number.Length - 1; l < Math.Min(j + 1, line.Length-1); l++)
                         {
-                            if (input[k][l] != '.')
+                            if (input[k][l] != '.' && !char.IsDigit(input[k][l]))
                             {
                                 isPartNumber = true;
                             }
