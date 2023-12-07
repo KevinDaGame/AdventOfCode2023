@@ -1,7 +1,8 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d09ba557_002Db0c1_002D4293_002Db71f_002Debbe063abc4d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Part2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=12c52c26_002Dd30a_002D47fb_002Daf7d_002Db0adeb036f0d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Part1_Test_IComperable_Equal" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
-    &lt;TestId&gt;MSTest::0F3AE1C0-3BF4-42B1-BA61-676F43F3BA09::net7.0::AdventOfCode2023.Day6.Day6.Part2&lt;/TestId&gt;
-    &lt;TestId&gt;MSTest::0F3AE1C0-3BF4-42B1-BA61-676F43F3BA09::net7.0::AdventOfCode2023.Day6.Day6.Part1&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::0F3AE1C0-3BF4-42B1-BA61-676F43F3BA09::net7.0::AdventOfCode2023.Day7.Day7.Part1_Test_IComperable_Equal&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::0F3AE1C0-3BF4-42B1-BA61-676F43F3BA09::net7.0::AdventOfCode2023.Day7.Day7.Part1&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::0F3AE1C0-3BF4-42B1-BA61-676F43F3BA09::net7.0::AdventOfCode2023.Day7.Day7.Part2&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
